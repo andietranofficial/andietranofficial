@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Andie Tran - a data practitioner</h1>
+<h1 align="center">Hi 👋, I'm Andie Tran - a DA, DE and now transition to AI Engineeer </h1>
 
 
 - 🌱 Goals: Become a translator between tech and business.
-- 👨‍💻 I’m currently working on **building up my GitHub profile with data science projects.** 
+- 👨‍💻 I’m currently working on **AI-powered applications & data analytics engineer projects** 
 - 📄 I graduated [MSc in Applied Information and Data Science](https://www.hslu.ch/de-ch/wirtschaft/studium/master/applied-information-and-data-science/) at Hochschule Luzern (Switzerland).
 - 💻 All of my data analysis projects are available at [GitHub](https://github.com/andietranofficial).
-- 🤝 My data visualisation projects can be found at: [Tableau](https://public.tableau.com/app/profile/anh.dao.tran).
+- 🤝 My data visualisation projects with Tableau can be found at: [Tableau](https://public.tableau.com/app/profile/anh.dao.tran).
+- 🤝 My data visualisation projects with PBI: to be updated
 - ⚡ Fun fact: When I am not digging into data, I love cooking, swimming, running and handicraft making.
 
 
