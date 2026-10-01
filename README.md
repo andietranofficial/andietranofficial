@@ -31,7 +31,9 @@
 
 <h3 align="left">💻 Featured Projects:</h3>
 
-- Stock Trading Dashboard with Streamlit App  [link](https://github.com/andietranofficial/Trading-Dashboard-SQL-Streamlit-Case-Study).
-- Sales Performance Dashboard with Power BI  [link](https://github.com/andietranofficial/Sales_Analysis_Report_with_PBI).
-- Build Up a Financial Market Database with Python & MariaDB [link](https://github.com/andietranofficial/CIP-Financial-Data-with-Python).
+- Stock Trading Dashboard with Streamlit App  ([link](https://github.com/andietranofficial/Trading-Dashboard-SQL-Streamlit-Case-Study))
+
+- Sales Performance Dashboard with Power BI ([link](https://github.com/andietranofficial/Sales_Analysis_Report_with_PBI))
+
+- Build Up a Financial Market Database with Python & PosgresSQL ([link](https://github.com/andietranofficial/CIP-Financial-Data-with-Python))
 
