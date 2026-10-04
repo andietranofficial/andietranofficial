@@ -8,7 +8,7 @@
 - 💻 All of my data analysis projects are available at [GitHub](https://github.com/andietranofficial).
 - 🤝 My data visualisation projects with Tableau can be found at: [Tableau](https://public.tableau.com/app/profile/anh.dao.tran).
 - 🤝 My data visualisation projects with PBI: [PBI](https://github.com/andietranofficial/Sales_Analysis_Report_with_PBI).
-- ⚡ Fun fact: When I am not digging into data, I love cooking, swimming, running and handicraft making.
+- ⚡ Fun fact: When I am not digging into data, I am a data mentor & active admin of VNDataScience group with > 300 data professional worldwide.
 
 
 <h3 align="left">📬 Connect with me:</h3>
